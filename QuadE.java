@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class QuadE{
       public static void main (String[]args){
